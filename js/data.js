@@ -1,5 +1,5 @@
 /*
- * data.js — Mock data model for Agent Misbehavior Intelligence
+ * data.js — Mock data model for Agent Failure Intelligence
  * ------------------------------------------------------------
  * Everything the prototype renders comes from this module. There is no backend;
  * data is generated deterministically at load time from a seeded PRNG so the

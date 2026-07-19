@@ -1,5 +1,5 @@
 /* ============================================================================
-   Agent Misbehavior Intelligence — app.css
+   Agent Failure Intelligence — app.css
    Design tokens + component styles. Light is default; [data-theme="dark"] on
    <html> flips the palette. Chart series colors come from the validated
    dataviz reference palette (see js/charts.js for how they are consumed).

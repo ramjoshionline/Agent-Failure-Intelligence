@@ -1,5 +1,5 @@
 /*
- * charts.js — dependency-free SVG charts for Agent Misbehavior Intelligence.
+ * charts.js — dependency-free SVG charts for Agent Failure Intelligence.
  * Colors come from the CSS series tokens (--series-1..8) so light/dark swap
  * automatically. Each chart supports a hover tooltip and an onClick(datum)
  * callback for drill-down. Series colors follow the entity, never the rank.

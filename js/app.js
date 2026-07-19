@@ -1,6 +1,6 @@
 /*
  * app.js — application shell, router, and all views for
- * Agent Misbehavior Intelligence.
+ * Agent Failure Intelligence.
  *
  * Architecture
  *   - state         : filters, theme, current route, in-memory review edits
@@ -82,7 +82,7 @@
       <header class="topbar">
         <div class="brand">
           <span class="logo">${icon('layers', 16)}</span>
-          <span class="name">Misbehavior Intelligence<small>Agent failure analysis</small></span>
+          <span class="name">Agent Failure Intelligence<small>Agent failure analysis</small></span>
         </div>
         <div class="topsearch">
           <span class="ico">${icon('search', 16)}</span>
